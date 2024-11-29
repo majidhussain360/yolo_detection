@@ -1,0 +1,5 @@
+names:
+  0: helmet
+  1: eyes
+path: .
+train: train.txt
